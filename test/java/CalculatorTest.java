@@ -28,4 +28,5 @@ class CalculatorTest {
         assertEquals(2, calculator.multiply(2,1),
                 "2*1 should equal 1");
     }
+
 }
