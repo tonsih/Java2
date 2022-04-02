@@ -14,12 +14,12 @@ on "Java Unit Testing with JUnit5 in 20 steps".
 
 ### Methods in the Calculator-class
 
-- Add
-- Subtract
-- Divide
-- Multiply
-- Power (Deliberate error left in code for testing purposes)
-- IsInt
+- add
+- subtract
+- divide
+- multiply
+- power (Deliberate error left in code for testing purposes)
+- isInt
 
 ### Methods in the CalculatorTest-class
 
