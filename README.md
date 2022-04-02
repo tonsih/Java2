@@ -12,9 +12,9 @@ on Java Unit Testing with JUnit5 in 20 steps.
 - Calculator
 - CalculatorTest
 
-## Methods in the Calculator-class
+# Methods in the Calculator-class
 
-# main - directory 
+## main - directory 
 
 - Add
 - Subtract
