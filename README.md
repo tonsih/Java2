@@ -23,12 +23,12 @@ on "Java Unit Testing with JUnit5 in 20 steps".
 
 ### Methods in the CalculatorTest-class
 
-TypeChecks:
+#### TypeChecks:
 - isInt (A bug on purpose in the example of 4.5)
 - isInt2
 - isNull
 
-Calculations:
+#### Calculations:
 - addsTwoNumbers
 - subtractsTwoNumbers
 - multiplyTwoNumbers
