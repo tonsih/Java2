@@ -67,8 +67,8 @@ class CalculatorTest {
 
         @Test
         @DisplayName("4 / 2 = 2")
-        void divideTwoNumber() {
-            assertEquals(2, calculator.division(4, 2));
+        void divideTwoNumbers() {
+            assertEquals(2, calculator.divide(4, 2));
         }
 
         @Test

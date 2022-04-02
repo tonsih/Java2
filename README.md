@@ -16,7 +16,7 @@ on "Java Unit Testing with JUnit5 in 20 steps".
 
 - Add
 - Subtract
-- Division
+- Divide
 - Multiply
 - Power (Deliberate error left in code for testing purposes)
 - IsInt
@@ -32,5 +32,5 @@ on "Java Unit Testing with JUnit5 in 20 steps".
 - addsTwoNumbers
 - subtractsTwoNumbers
 - multiplyTwoNumbers
-- divideTwoNumber
+- divideTwoNumbers
 - power
