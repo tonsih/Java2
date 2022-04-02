@@ -18,5 +18,5 @@ on "Java Unit Testing with JUnit5 in 20 steps".
 - Subtract
 - Division
 - Multiply
-- Power (Delibarate error left in code for testing purposes)
+- Power (Deliberate error left in code for testing purposes)
 - IsInt

@@ -12,10 +12,11 @@ class CalculatorTest {
     private final Calculator calculator = new Calculator();
 
     @Nested
-    class typeChecks {
+    class TypeChecks {
 
         @ParameterizedTest  // Loops through all elements in the @ValueSource
-        @ValueSource(doubles = {5.0, 4.0, 13.0, 4.5}) void isInt(double i) {
+        @ValueSource(doubles = {5.0, 4.0, 13.0, 4.5})
+        void isInt(double i) {
             assertTrue(calculator.isInt(i)); // A bug on purpose in 4.5
         }
 
@@ -27,7 +28,8 @@ class CalculatorTest {
         }
 
 
-        @Test void isNull() {
+        @Test
+        void isNull() {
             Integer i = null;
 
             assertThrows(NullPointerException.class,
