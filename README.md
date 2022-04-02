@@ -20,3 +20,17 @@ on "Java Unit Testing with JUnit5 in 20 steps".
 - Multiply
 - Power (Deliberate error left in code for testing purposes)
 - IsInt
+
+### Methods in the CalculatorTest-class
+
+TypeChecks:
+- isInt (A bug on purpose in the example of 4.5)
+- isInt2
+- isNull
+
+Calculations:
+- addsTwoNumbers
+- subtractsTwoNumbers
+- multiplyTwoNumbers
+- divideTwoNumber
+- power
