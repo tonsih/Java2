@@ -14,8 +14,6 @@ on Java Unit Testing with JUnit5 in 20 steps.
 
 # Methods in the Calculator-class
 
-## main - directory 
-
 - Add
 - Subtract
 - Division
