@@ -28,7 +28,7 @@ on "Java Unit Testing with JUnit5 in 20 steps".
 - isInt2
 - isNull
 
-#### ++Calculations++:
+#### <u> Calculations </u>:
 - addsTwoNumbers
 - subtractsTwoNumbers
 - multiplyTwoNumbers
